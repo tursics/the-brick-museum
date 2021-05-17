@@ -16,5 +16,18 @@ README.md       <- this file
 /src
    museum.io    <- working file
 /dist
-   museum.pdf   <- resulting file
+   museum.png   <- cover image
+   museum.pdf   <- building manual
 ```
+
+## Prepare project
+
+You need to install the "Studio 2.0" app on your local maschine. It's available for Windows and Mac. [Download](https://www.bricklink.com/v3/studio/download.page) and install it. Open the `museum.io`file.
+
+## Preview
+
+![alt text](https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum.png "Preview image")
+
+> Get the result!!!
+
+https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum.pdf?inline=false
