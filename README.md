@@ -26,7 +26,7 @@ You need to install the "Studio 2.0" app on your local maschine. It's available 
 
 ## Preview
 
-![alt text](https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum.png "Preview image")
+![alt text](https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum.gif "Preview image")
 
 > Get the result!!!
 
