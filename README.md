@@ -2,7 +2,7 @@
 
 Nehme dein Museum mit nach Hause. So in echt. Baue es mit der ganzen Familie nach und stelle es ins Kinder- oder Wohnzimmer.
 
-![alt text](https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum.gif "Preview image")
+![alt text](https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum.gif "Vorschau Museum") ![alt text](https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-small.gif "Vorschau Museum")
 
 ## Beschreibung
 
@@ -23,10 +23,14 @@ Lego kennt jeder und mit Klemmbausteinen kann man Gebäude sehr gut nachbauen. D
 README.md       <- dieser Text
 /src
    museum.io    <- Arbeitsdatei, die in Studio 2.0 geöffnet werden kann
+   museum-small.io    <- Arbeitsdatei für eine kleinere Version des  Museums
 /dist
    museum.gif   <- animiertes Foto
    museum.png   <- Cover-Foto
    museum.pdf   <- Aufbauanleitung
+   museum-small.gif   <- animiertes Foto
+   museum-small.png   <- Cover-Foto
+   museum-small.pdf   <- Aufbauanleitung
 ```
 
 ## Wie funktioniert das Projekt
@@ -47,4 +51,10 @@ Aufpassen sollte man auf
 
 ## Aufbauanleitung
 
-https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum.pdf?inline=false
+![alt text](https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum.png "Modell des Museums")
+[museum.pdf](https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum.pdf) für das große Museums-Modell
+
+<br>
+
+![alt text](https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-small.png "Modell des Museums")
+[museum-small.pdf](https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-small.pdf) für das kleine Museums-Modell
