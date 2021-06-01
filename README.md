@@ -67,7 +67,7 @@ Ich bleibe gerne an Bauzäunen stehen und schaue mir den Fortschritt an. Damit d
 |Foto            |Animiert        |Kommentar  |
 |----------------|----------------|-----------|
 |![big-still-1]  |![big-video-1]  |erste Version  |
-|![big-still-2]  |![big-video-2]  |eine erst Mauer  |
+|![big-still-2]  |![big-video-2]  |eine erste Mauer  |
 |![big-still-3]  |![big-video-3]  |mit zweiter Etage  |
 |![big-still-4]  |![big-video-4]  |von zwei Seiten (sieht fast schon aus wie ein Haus)  |
 |![big-still-5]  |![big-video-5]  |die Stirnseite kommt hinzu  |
