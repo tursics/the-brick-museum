@@ -19,7 +19,7 @@ Lego kennt jeder und mit Klemmbausteinen kann man Gebäude sehr gut nachbauen. D
 
 ## Projektstruktur
 
-```
+```bash
 README.md            <- dieser Text
 /src                 <- Quell-Ordner mit allen Arbeitsdateien
    museum.io           <- Arbeitsdatei, die in Studio 2.0 geöffnet werden kann
@@ -46,17 +46,16 @@ Das Modell ist angelehnt an die Lego City Reihe, die Gebäude so gestaltet haben
 Aus dem Steine-Modell kann man eine Aufbauanleitung erstellen. Das ist ein komplett eigener Vorgang. Die Steine muss man einzelnd auf jede Seite für jeden Schritt auswählen. Am Ende entsteht der "Quelltext" für das Lego-Modell.
 
 Aufpassen sollte man auf
-* Stabilität (das Gebäude darf nicht einstürzen)
-* alle Teile müssen kaufbar sein (nicht alle Formen-Farbe-Kombinationen sind lieferbar)
-* der Preis sollte nicht zu hoch sein (spezielle Formen und Farben, Fenster mit "Glas" kosten mehr)
-* die Anleitung sollte einfach lesbar sein (von der Schwierigkeit und vom Layout)
+
+- Stabilität (das Gebäude darf nicht einstürzen)
+- alle Teile müssen kaufbar sein (nicht alle Formen-Farbe-Kombinationen sind lieferbar)
+- der Preis sollte nicht zu hoch sein (spezielle Formen und Farben, Fenster mit "Glas" kosten mehr)
+- die Anleitung sollte einfach lesbar sein (von der Schwierigkeit und vom Layout)
 
 ## Aufbauanleitung
 
 ![big-still]
 [museum.pdf](https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum.pdf) für das große Museums-Modell
-
-<br>
 
 ![small-still]
 [museum-small.pdf](https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-small.pdf) für das kleine Museums-Modell
@@ -68,10 +67,11 @@ Ich bleibe gerne an Bauzäunen stehen und schaue mir den Fortschritt an. Damit d
 |Foto            |Animiert        |Kommentar  |
 |----------------|----------------|-----------|
 |![big-still-1]  |                |erste Version  |
-|![big-still-2]  |![big-video-2]  |erste Mauer  |
-|![big-still-3]  |![big-video-3]  |zwei Etagen  |
-|![big-still-4]  |![big-video-4]  |Stirnseite  |
-|![big-still-5]  |![big-video-5]  |mit Dach  |
+|![big-still-2]  |![big-video-2]  |eine erst Mauer  |
+|![big-still-3]  |![big-video-3]  |mit zweiter Etage  |
+|![big-still-4]  |![big-video-4]  |von zwei Seiten (sieht fast schon aus wie ein Haus)  |
+|![big-still-5]  |![big-video-5]  |die Stirnseite kommt hinzu  |
+|![big-still-6]  |![big-video-6]  |mit Dach  |
 |                |![big-still]    |aktuelle Version  |
 
 Für das zweite Modell gibt es auch ältere Bilder:
