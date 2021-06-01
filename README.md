@@ -31,7 +31,7 @@ README.md            <- dieser Text
    museum-small.gif    <- animiertes Foto
    museum-small.png    <- Cover-Foto
    museum-small.pdf    <- Aufbauanleitung
-/dist                <- Ordner für die Dokumentation
+/doc                 <- Ordner für die Dokumentation
    *                   <- alte Dateien aus dem dist-Ordner
 ```
 
