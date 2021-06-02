@@ -79,6 +79,7 @@ Für das zweite Modell gibt es auch ältere Bilder:
 |Foto            |Animiert        |Kommentar  |
 |----------------|----------------|-----------|
 |![small-still-1]|![small-video-1]|erste Version  |
+|![small-still-2]|![small-video-2]|auch hier ist die Stirnseite modelliert worden  |
 |                |![small-still]  |aktuelle Version  |
 
 [big-still]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum.png "Modell des Museums"
