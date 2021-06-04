@@ -10,12 +10,24 @@ Museen und andere Kultureinrichtungen sind während der Corona-Pandemie für l�
 
 Was macht man also in einem Hackathon für ein Projekt? Bei einem, der nur remote stattfinden kann? Als Software-Entwickler? Mit super aufwändig erzeugten 3D-Daten? Einem Event, das digitale Ergebnisse erzeugt? Genau. Etwas nicht-digitales. Etwas, das man in die Hand nehmen kann. Bei einem 3D-Modell bietet sich ein 3D-Druck an. Aber nicht jeder hat einen 3D-Drucker zu Hause. Es muss also etwas simpleres sein.
 
-Lego kennt jeder und mit Klemmbausteinen kann man Gebäude sehr gut nachbauen. Der Spaß liegt in der gesamten Familie und ist unabhängig vom Alter.
+Die bunten Plastiksteine aus Dänemark kennt jeder und mit Klemmbausteinen kann man Gebäude sehr gut nachbauen. Der Spaß liegt in der gesamten Familie und ist unabhängig vom Alter.
 
 ## Benutzte Daten
 
 - [Rohdaten aus dem 3D-Scan des Dithmarscher Landesmuseums](https://codingdavinci.de/daten/rohdaten-aus-dem-3d-scan-des-dithmarscher-landesmuseums)
 - [Erklär-Video zu den Daten](https://www.youtube.com/watch?v=NF7MXZgoYto)
+
+## Erste Ideen - erste Probleme
+
+Das Bauen von Modellen mit Klemmbausteinen ist sehr einfach, man braucht nur eine Kiste mit entsprechend vielen Teilen. Es gibt auch Software, die einem dabei unterstützt. Mit "Studio 2.0" existiert eine kostenlose Software, die auf einem Rechner installiert werden kann und wo man seine Modelle entwirft.
+
+**Idee 1: In "Studio 2.0" kann man 3D-Daten importieren.** Das Museum bietet 3D-Daten an und diese kann man einfach so in dem Programm importieren. Heraus fällt ein Modell aus Blöcken. Die Qualität vom Modell war ... sehr bescheiden. Es sah aus wie eine Ansammlung von 2x4-Blöcken, die nicht mal die Form eines Hauses hatte. Überall waren Löcher, der "Innenraum" war nicht vorhanden und hatte etwas von schweizer Käse.
+
+**Das Problem:** Das 3D-Modell des Museums ist zu feingliedrig aufgebaut. Als einzige Lösung bleibt übrig, das Modell per Hand nach zu bauen. Stein für Stein. Das macht sogar mehr Sinn, weil dann auch Elemente wie Fenster, Türen, Dachsteine und Co verwendet werden können.
+
+**Idee 2: das 3D-Modell erlaubt den Nachbau des Museums.** Das 3D-Modell ist sehr gut. Man kann bereits auf der Webseite des Museums eine Wanderung innerhalb der Räume unternehmen. Das nachbauen des Innenraums ist kein Problem. Allerdings wurden (bis auf den Innenhof) keine Außenwände aufgenommen. Das 3D-Modell enthällt keine klare Abgrenzung nach außen. Das sieht auf einem einfarbigen Modell aus wie eine schrumplige Apfelsine.
+
+**Die Lösung / das Problem:** Um die Außenwände nachbauen zu können musste auf Fotos zugegriffen werden. Im Internet findet man einige Foto aus verschiedenen Blickwinkeln. Eine Bilddatenbank mit sehr guten Außenaufnahmen befindet sich im Museum. Im Museum. Das Museum wird saniert und die Rechner mit den Bildern stehen gut verstaut auf der Baustelle. Also gibt es auch nur die Bilder aus dem Internet.
 
 ## Projektstruktur
 
@@ -41,9 +53,9 @@ Als erstes musst du dir "Studio 2.0" auf deinem Rechner installieren. Das Progra
 
 Im Studio 2.0 kannst du das Museum in 3D nachbauen. Die Farben, Formen und die Auflösung (die Steine sind ja wie Pixel in 3D) sind beschränkt. Einzelnde Steine kann man gruppieren um sie später einfacher im Modell vervielfältigen zu können (z.B. gleiche Außenfassade).
 
-Das Modell ist angelehnt an die Lego City Reihe, die Gebäude so gestaltet haben, dass man die einzelnen Etage abnehmen kann, um bequemer darin spielen kann.
+Das Modell ist angelehnt an die L*** City Reihe, die Gebäude so gestaltet haben, dass man die einzelnen Etage abnehmen kann, um bequemer darin spielen kann. Das Modell muss entsprechend gestaltet werden, damit dies funktioniert.
 
-Aus dem Steine-Modell kann man eine Aufbauanleitung erstellen. Das ist ein komplett eigener Vorgang. Die Steine muss man einzelnd auf jede Seite für jeden Schritt auswählen. Am Ende entsteht der "Quelltext" für das Lego-Modell.
+Aus dem Steine-Modell kann man eine Aufbauanleitung erstellen. Das ist ein komplett eigener Vorgang. Die Steine muss man einzelnd auf jede Seite für jeden Schritt auswählen. Am Ende entsteht der "Quelltext" für das Klemmbausteine-Modell.
 
 Aufpassen sollte man auf
 
