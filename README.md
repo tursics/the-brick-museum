@@ -27,7 +27,7 @@ Das Bauen von Modellen mit Klemmbausteinen ist sehr einfach, man braucht nur ein
 
 **Idee 2: das 3D-Modell erlaubt den Nachbau des Museums.** Das 3D-Modell ist sehr gut. Man kann bereits auf der Webseite des Museums eine Wanderung innerhalb der Räume unternehmen. Das nachbauen des Innenraums ist kein Problem. Allerdings wurden (bis auf den Innenhof) keine Außenwände aufgenommen. Das 3D-Modell enthällt keine klare Abgrenzung nach außen. Das sieht auf einem einfarbigen Modell aus wie eine schrumplige Apfelsine.
 
-**Die Lösung / das Problem:** Um die Außenwände nachbauen zu können musste auf Fotos zugegriffen werden. Im Internet findet man einige Foto aus verschiedenen Blickwinkeln. Eine Bilddatenbank mit sehr guten Außenaufnahmen befindet sich im Museum. Im Museum. Das Museum wird saniert und die Rechner mit den Bildern stehen gut verstaut auf der Baustelle. Also gibt es auch nur die Bilder aus dem Internet.
+**Die Lösung / das Problem:** Um die Außenwände nachbauen zu können musste auf Fotos zugegriffen werden. Im Internet findet man einige Foto aus verschiedenen Blickwinkeln. Eine Bilddatenbank mit sehr guten Außenaufnahmen befindet sich im Museum. Das Museum wird saniert und die Rechner mit den Bildern stehen gut verstaut auf der Baustelle. Also gibt es auch nur die Bilder aus dem Internet.
 
 ## Projektstruktur
 
@@ -49,7 +49,7 @@ README.md            <- dieser Text
 
 ## Wie funktioniert das Projekt
 
-Als erstes musst du dir "Studio 2.0" auf deinem Rechner installieren. Das Programm ist für Windows und Mac verfügbar. [Lade es von hier herunter](https://www.bricklink.com/v3/studio/download.page) und installiere es. Öffne die Datei `museum.io`.
+Als erstes musst du dir "Studio 2.0" auf deinem Rechner installieren. Das Programm ist für Windows und Mac verfügbar. [Lade es hier herunter](https://www.bricklink.com/v3/studio/download.page) und installiere es. Öffne die Datei `museum.io`.
 
 Im Studio 2.0 kannst du das Museum in 3D nachbauen. Die Farben, Formen und die Auflösung (die Steine sind ja wie Pixel in 3D) sind beschränkt. Einzelnde Steine kann man gruppieren um sie später einfacher im Modell vervielfältigen zu können (z.B. gleiche Außenfassade).
 
@@ -85,7 +85,14 @@ Ich bleibe gerne an Bauzäunen stehen und schaue mir den Fortschritt an. Damit d
 |![big-still-5]  |![big-video-5]  |die Stirnseite kommt hinzu  |
 |![big-still-6]  |![big-video-6]  |mit Dach  |
 |![big-still-7]  |![big-video-7]  |bessere Stirnseite und Dachfenster  |
+|![big-still-8]  |![big-video-8]  |die Rückseite wurde gestaltet  |
 |                |![big-still]    |aktuelle Version  |
+
+Danach kam der Innenausbau:
+
+|Außenansicht    |Erdgeschoss      |Obergeschoss      |Dach      |Kommentar  |
+|----------------|-----------------|-----------------|-----------------|-----------|
+|![big-still-8]  |![big-still-eg-8]|![big-still-og-8]|![big-still-dach-8]|noch fehlt hier alles  |
 
 Für das zweite Modell gibt es auch ältere Bilder:
 
@@ -106,6 +113,15 @@ Für das zweite Modell gibt es auch ältere Bilder:
 [big-still-8]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-8.png "älteres Modell des Museums"
 [big-still-9]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9.png "älteres Modell des Museums"
 [big-still-10]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10.png "älteres Modell des Museums"
+[big-still-eg-8]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-eg-8.png "älteres Modell des Museums"
+[big-still-eg-9]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-eg-9.png "älteres Modell des Museums"
+[big-still-eg-10]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-eg-10.png "älteres Modell des Museums"
+[big-still-og-8]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-og-8.png "älteres Modell des Museums"
+[big-still-og-9]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-og-9.png "älteres Modell des Museums"
+[big-still-og-10]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-og-10.png "älteres Modell des Museums"
+[big-still-dach-8]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-dach-8.png "älteres Modell des Museums"
+[big-still-dach-9]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-dach-9.png "älteres Modell des Museums"
+[big-still-dach-10]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-dach-10.png "älteres Modell des Museums"
 [small-still]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-small.png "kleines Modell des Museums"
 [small-still-1]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-small-1.png "kleines, älteres Modell des Museums"
 [small-still-2]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-small-2.png "kleines, älteres Modell des Museums"
