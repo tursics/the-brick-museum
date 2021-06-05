@@ -84,6 +84,7 @@ Ich bleibe gerne an Bauzäunen stehen und schaue mir den Fortschritt an. Damit d
 |![big-still-4]  |![big-video-4]  |von zwei Seiten (sieht fast schon aus wie ein Haus)  |
 |![big-still-5]  |![big-video-5]  |die Stirnseite kommt hinzu  |
 |![big-still-6]  |![big-video-6]  |mit Dach  |
+|![big-still-7]  |![big-video-7]  |bessere Stirnseite und Dachfenster  |
 |                |![big-still]    |aktuelle Version  |
 
 Für das zweite Modell gibt es auch ältere Bilder:
