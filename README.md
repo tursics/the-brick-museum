@@ -4,6 +4,11 @@ Nehme dein Museum mit nach Hause. So in echt. Baue es mit der ganzen Familie nac
 
 ![big-video] ![small-video]
 
+|Erdgeschoss      |Obergeschoss      |Dach      |Außenansicht    |
+|-----------------|-----------------|-----------------|----------------|
+|![big-still-eg]|![big-still-og]|![big-still-dach]|![big-still]  |
+
+
 ## Beschreibung
 
 Museen und andere Kultureinrichtungen sind während der Corona-Pandemie für längere Zeit geschlossen. Beim Dithmarscher Landesmuseum dauert der Lockdown auf Grund von Bauarbeiten noch bis Oktober 2022 an. Derzeit besteht nur die Möglichkeit das Museum digital zu besuchen. Dazu hat das Museum seine Innenräume komplett in 3D eingescannt und stellt auf seiner Webseite einen virtuellen Rundgang bereit.
@@ -113,12 +118,15 @@ Für das zweite Modell gibt es auch ältere Bilder:
 [big-still-8]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-8.png "älteres Modell des Museums"
 [big-still-9]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9.png "älteres Modell des Museums"
 [big-still-10]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10.png "älteres Modell des Museums"
+[big-still-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-eg.png "Modell des Museums"
 [big-still-8-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-8-eg.png "älteres Modell des Museums"
 [big-still-9-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9-eg.png "älteres Modell des Museums"
 [big-still-10-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10-eg.png "älteres Modell des Museums"
+[big-still-og]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-og.png "Modell des Museums"
 [big-still-8-og]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-8-og.png "älteres Modell des Museums"
 [big-still-9-og]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9-og.png "älteres Modell des Museums"
 [big-still-10-og]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10-og.png "älteres Modell des Museums"
+[big-still-dach]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-dach.png "Modell des Museums"
 [big-still-8-dach]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-8-dach.png "älteres Modell des Museums"
 [big-still-9-dach]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9-dach.png "älteres Modell des Museums"
 [big-still-10-dach]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10-dach.png "älteres Modell des Museums"
