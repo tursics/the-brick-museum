@@ -90,9 +90,9 @@ Ich bleibe gerne an Bauzäunen stehen und schaue mir den Fortschritt an. Damit d
 
 Danach kam der Innenausbau:
 
-|Außenansicht    |Erdgeschoss      |Obergeschoss      |Dach      |Kommentar  |
-|----------------|-----------------|-----------------|-----------------|-----------|
-|![big-still-8]  |![big-still-8-eg]|![big-still-8-og]|![big-still-8-dach]|noch fehlt hier alles  |
+|Erdgeschoss      |Obergeschoss      |Dach      |Außenansicht    |Kommentar  |
+|-----------------|-----------------|-----------------|----------------|-----------|
+|![big-still-8-eg]|![big-still-8-og]|![big-still-8-dach]|![big-still-8]  |noch ist nur die Außenhülle zu sehen  |
 
 Für das zweite Modell gibt es auch ältere Bilder:
 
@@ -113,15 +113,15 @@ Für das zweite Modell gibt es auch ältere Bilder:
 [big-still-8]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-8.png "älteres Modell des Museums"
 [big-still-9]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9.png "älteres Modell des Museums"
 [big-still-10]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10.png "älteres Modell des Museums"
-[big-still-8-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-8-eg.png "älteres Modell des Museums"
-[big-still-9-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-9-eg.png "älteres Modell des Museums"
-[big-still-10-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-10-eg.png "älteres Modell des Museums"
-[big-still-8-og]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-8-og.png "älteres Modell des Museums"
-[big-still-9-og]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-9-og.png "älteres Modell des Museums"
-[big-still-10-og]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-10-og.png "älteres Modell des Museums"
-[big-still-8-dach]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-8-dach.png "älteres Modell des Museums"
-[big-still-9-dach]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-9-dach.png "älteres Modell des Museums"
-[big-still-10-dach]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-big-10-dach.png "älteres Modell des Museums"
+[big-still-8-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-8-eg.png "älteres Modell des Museums"
+[big-still-9-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9-eg.png "älteres Modell des Museums"
+[big-still-10-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10-eg.png "älteres Modell des Museums"
+[big-still-8-og]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-8-og.png "älteres Modell des Museums"
+[big-still-9-og]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9-og.png "älteres Modell des Museums"
+[big-still-10-og]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10-og.png "älteres Modell des Museums"
+[big-still-8-dach]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-8-dach.png "älteres Modell des Museums"
+[big-still-9-dach]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9-dach.png "älteres Modell des Museums"
+[big-still-10-dach]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10-dach.png "älteres Modell des Museums"
 [small-still]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-small.png "kleines Modell des Museums"
 [small-still-1]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-small-1.png "kleines, älteres Modell des Museums"
 [small-still-2]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-small-2.png "kleines, älteres Modell des Museums"
