@@ -42,6 +42,7 @@ README.md            <- dieser Text
 /src                 <- Quell-Ordner mit allen Arbeitsdateien
    museum.io           <- Arbeitsdatei, die in Studio 2.0 geöffnet werden kann
    museum-small.io     <- Arbeitsdatei für eine kleinere Version des Museums
+/ldraw               <- Grafik-Dateien für die Sticker
 /dist                <- Auslieferungs-Ordner für das fertige Produkt
    museum.gif          <- animiertes Foto
    museum.png          <- Cover-Foto
@@ -94,12 +95,22 @@ Ich bleibe gerne an Bauzäunen stehen und schaue mir den Fortschritt an. Damit d
 |![big-still-8]  |![big-video-8]  |die Rückseite wurde gestaltet  |
 |                |![big-still]    |aktuelle Version  |
 
-Danach kam der Innenausbau:
+### Danach kam der Innenausbau:
 
 |Erdgeschoss      |Obergeschoss      |Dach      |Kommentar  |
 |-----------------|-----------------|-----------------|-----------|
 |![big-still-8-eg]|![big-still-8-og]|![big-still-8-dach]|noch ist nur die Außenhülle zu sehen  |
 |![big-still-9-eg]|![big-video-9-eg]|  |Parkett und Holzbalken werden im Erdgeschoss verlegt  |
+
+### Kurator:
+
+An die Wände gehören Bilder. Für das Modell wird dies mit Stickern gelöst.
+
+- PNG-Bilder müssen [hierüber](https://brickhub.org/i/apps/sticker_builder.htm) konvertiert werden
+- SVG-Bilder müssen [hierüber](https://www.c-mt.dk/software/svg2ldraw/) konvertiert werden
+- kopiere den Ordner `/ldraw` nach `~/Application/Studio 2.0/ldraw`
+
+---
 
 Für das zweite Modell gibt es auch ältere Bilder:
 
