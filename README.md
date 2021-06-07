@@ -95,9 +95,10 @@ Ich bleibe gerne an Bauzäunen stehen und schaue mir den Fortschritt an. Damit d
 
 Danach kam der Innenausbau:
 
-|Erdgeschoss      |Obergeschoss      |Dach      |Außenansicht    |Kommentar  |
-|-----------------|-----------------|-----------------|----------------|-----------|
-|![big-still-8-eg]|![big-still-8-og]|![big-still-8-dach]|![big-still-8]  |noch ist nur die Außenhülle zu sehen  |
+|Erdgeschoss      |Obergeschoss      |Dach      |Kommentar  |
+|-----------------|-----------------|-----------------|-----------|
+|![big-still-8-eg]|![big-still-8-og]|![big-still-8-dach]|noch ist nur die Außenhülle zu sehen  |
+|![big-still-9-eg]|![big-video-9-eg]|  |Parkett und Holzbalken werden im Erdgeschoss verlegt  |
 
 Für das zweite Modell gibt es auch ältere Bilder:
 
@@ -118,18 +119,22 @@ Für das zweite Modell gibt es auch ältere Bilder:
 [big-still-8]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-8.png "älteres Modell des Museums"
 [big-still-9]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9.png "älteres Modell des Museums"
 [big-still-10]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10.png "älteres Modell des Museums"
+
 [big-still-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-eg.png "Modell des Museums"
 [big-still-8-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-8-eg.png "älteres Modell des Museums"
 [big-still-9-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9-eg.png "älteres Modell des Museums"
 [big-still-10-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10-eg.png "älteres Modell des Museums"
+
 [big-still-og]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-og.png "Modell des Museums"
 [big-still-8-og]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-8-og.png "älteres Modell des Museums"
 [big-still-9-og]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9-og.png "älteres Modell des Museums"
 [big-still-10-og]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10-og.png "älteres Modell des Museums"
+
 [big-still-dach]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-dach.png "Modell des Museums"
 [big-still-8-dach]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-8-dach.png "älteres Modell des Museums"
 [big-still-9-dach]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9-dach.png "älteres Modell des Museums"
 [big-still-10-dach]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10-dach.png "älteres Modell des Museums"
+
 [small-still]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-small.png "kleines Modell des Museums"
 [small-still-1]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-small-1.png "kleines, älteres Modell des Museums"
 [small-still-2]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-small-2.png "kleines, älteres Modell des Museums"
@@ -141,6 +146,7 @@ Für das zweite Modell gibt es auch ältere Bilder:
 [small-still-8]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-small-8.png "kleines, älteres Modell des Museums"
 [small-still-9]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-small-9.png "kleines, älteres Modell des Museums"
 [small-still-10]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-small-10.png "kleines, älteres Modell des Museums"
+
 [big-video]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum.gif "animiertes Modell des Museums"
 [big-video-1]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-1.gif "animiertes, älteres Modell des Museums"
 [big-video-2]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-2.gif "animiertes, älteres Modell des Museums"
@@ -152,6 +158,10 @@ Für das zweite Modell gibt es auch ältere Bilder:
 [big-video-8]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-8.gif "animiertes, älteres Modell des Museums"
 [big-video-9]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9.gif "animiertes, älteres Modell des Museums"
 [big-video-10]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10.gif "animiertes, älteres Modell des Museums"
+
+[big-video-9-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9-eg.gif "animiertes, älteres Modell des Museums"
+[big-video-10-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10-eg.gif "animiertes, älteres Modell des Museums"
+
 [small-video]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-small.gif "kleines animiertes Modell des Museums"
 [small-video-1]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-small-1.gif "kleines animiertes älteres Modell des Museums"
 [small-video-2]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-small-2.gif "kleines animiertes älteres Modell des Museums"
