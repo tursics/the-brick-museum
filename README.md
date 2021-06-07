@@ -8,6 +8,7 @@ Nehme dein Museum mit nach Hause. So in echt. Baue es mit der ganzen Familie nac
 |-----------------|-----------------|-----------------|----------------|
 |![big-still-eg]|![big-still-og]|![big-still-dach]|![big-still]  |
 
+(klicke auf das Bild um es zu vergrößern)
 
 ## Beschreibung
 
