@@ -2,12 +2,21 @@
 
 Nehme dein Museum mit nach Hause. So in echt. Baue es mit der ganzen Familie nach und stelle es ins Kinder- oder Wohnzimmer.
 
-![big-video] ![small-video]
+|Museum in groß | |
+|---------------|---------------------------|
+|![big-still]   |![big-video]        |
+|mit einem Blick nach innen   |  |
+| |![big-still-detail]        |
+|Erdgeschoss    |                           |
+|![big-still-eg]   |![big-video-eg]        |
+|Obergeschoss    |                           |
+|![big-still-og]   |![big-video-og]        |
+|Dach    |                           |
+|![big-still-dach]   |        |
 
-|Erdgeschoss      |Obergeschoss      |Dach      |Außenansicht    |
-|-----------------|-----------------|-----------------|----------------|
-|![big-still-eg]|![big-still-og]|![big-still-dach]|![big-still]  |
-|![big-video-eg]|![big-video-og]|  |  |
+|Museum in klein   | |
+|---------------|---------------|
+|![small-video] | in Arbeit, ob es fertig wird bis zur Präsentation ist noch offen |
 
 (klicke auf ein Bild um es zu vergrößern)
 
@@ -43,7 +52,8 @@ README.md            <- dieser Text
 /src                 <- Quell-Ordner mit allen Arbeitsdateien
    museum.io           <- Arbeitsdatei, die in Studio 2.0 geöffnet werden kann
    museum-small.io     <- Arbeitsdatei für eine kleinere Version des Museums
-/ldraw               <- Grafik-Dateien für die Sticker
+/img                 <- Bilder aus dem Museum, die auf den Sticker landen werden
+/ldraw               <- Grafik-Dateien für die Sticker im .dat-Format
 /dist                <- Auslieferungs-Ordner für das fertige Produkt
    museum.gif          <- animiertes Foto
    museum.png          <- Cover-Foto
@@ -52,7 +62,7 @@ README.md            <- dieser Text
    museum-small.png    <- Cover-Foto
    museum-small.pdf    <- Aufbauanleitung
 /doc                 <- Ordner für die Dokumentation
-   *                   <- alte Dateien aus dem dist-Ordner
+   *                   <- alte Dateien aus dem dist-Ordner, um diese Info-Seite zu bebildern
 ```
 
 ## Wie funktioniert das Projekt
@@ -65,12 +75,21 @@ Das Modell ist angelehnt an die L*** City Reihe, die Gebäude so gestaltet haben
 
 Aus dem Steine-Modell kann man eine Aufbauanleitung erstellen. Das ist ein komplett eigener Vorgang. Die Steine muss man einzelnd auf jede Seite für jeden Schritt auswählen. Am Ende entsteht der "Quelltext" für das Klemmbausteine-Modell.
 
-Aufpassen sollte man auf
+**Aufpassen sollte man auf**
 
 - Stabilität (das Gebäude darf nicht einstürzen)
 - alle Teile müssen kaufbar sein (nicht alle Formen-Farbe-Kombinationen sind lieferbar)
 - der Preis sollte nicht zu hoch sein (spezielle Formen und Farben, Fenster mit "Glas" kosten mehr)
 - die Anleitung sollte einfach lesbar sein (von der Schwierigkeit und vom Layout)
+
+**Sticker**
+
+An die Wände gehören Bilder. Für das Modell wird dies mit Stickern gelöst. Vom 3D-Modell des Museums werden Screenshots angefertigt und im Ordner `/img` abgelegt. Diese müssen in das `.dat`-Format umgewandelt werden, damit Studio 2.0 sie verwenden kann.
+
+- PNG-Bilder können [auf dieser Webseite](https://brickhub.org/i/apps/sticker_builder.htm) konvertiert werden
+- SVG-Bilder könnnen [auf dieser Webseite](https://www.c-mt.dk/software/svg2ldraw/) konvertiert werden
+
+Die Dateien müssen in einer speziellen Ordner-Struktur im Verzeichnis `/ldraw` abelegt werden. Der komplette Ordner muss nach `~/Application/Studio 2.0/ldraw` kopiert werden (oder ein Symlink erstellt werden).
 
 ## Aufbauanleitung
 
@@ -96,7 +115,7 @@ Ich bleibe gerne an Bauzäunen stehen und schaue mir den Fortschritt an. Damit d
 |![big-still-8]  |![big-video-8]  |die Rückseite wurde gestaltet  |
 |                |![big-still]    |aktuelle Version  |
 
-### Danach kam der Innenausbau:
+Danach kam der Innenausbau:
 
 |Erdgeschoss      |Obergeschoss      |Dach      |Kommentar  |
 |-----------------|-----------------|-----------------|-----------|
@@ -105,13 +124,11 @@ Ich bleibe gerne an Bauzäunen stehen und schaue mir den Fortschritt an. Damit d
 |![big-still-10-eg]|![big-video-10-eg]|  |Alle Fenster werden verhangen und die Treppe eingesetzt  |
 | |![big-still-10-og]|![big-video-10-og]| Das gleiche für das Obergeschoss  |
 
-### Kurator:
-
 An die Wände gehören Bilder. Für das Modell wird dies mit Stickern gelöst.
 
-- PNG-Bilder müssen [hierüber](https://brickhub.org/i/apps/sticker_builder.htm) konvertiert werden
-- SVG-Bilder müssen [hierüber](https://www.c-mt.dk/software/svg2ldraw/) konvertiert werden
-- kopiere den Ordner `/ldraw` nach `~/Application/Studio 2.0/ldraw`
+|Bild                    |Kommentar  |
+|------------------------|-----------|
+| |![big-still-9-detail]| Die ersten 3 Bilder hängen an der Wand  |
 
 ---
 
@@ -134,6 +151,11 @@ Für das zweite Modell gibt es auch ältere Bilder:
 [big-still-8]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-8.png "älteres Modell des Museums"
 [big-still-9]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9.png "älteres Modell des Museums"
 [big-still-10]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10.png "älteres Modell des Museums"
+
+[big-still-detail]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-detail.png "Modell des Museums von innen"
+[big-still-8-detail]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-8-detail.png "älteres Modell des Museums von innen"
+[big-still-9-detail]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9-detail.png "älteres Modell des Museums von innen"
+[big-still-10-detail]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10-detail.png "älteres Modell des Museums von innen"
 
 [big-still-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-eg.png "Modell des Museums"
 [big-still-8-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-8-eg.png "älteres Modell des Museums"
