@@ -7,8 +7,9 @@ Nehme dein Museum mit nach Hause. So in echt. Baue es mit der ganzen Familie nac
 |Erdgeschoss      |Obergeschoss      |Dach      |Außenansicht    |
 |-----------------|-----------------|-----------------|----------------|
 |![big-still-eg]|![big-still-og]|![big-still-dach]|![big-still]  |
+|![big-video-eg]|![big-video-og]|  |  |
 
-(klicke auf das Bild um es zu vergrößern)
+(klicke auf ein Bild um es zu vergrößern)
 
 ## Beschreibung
 
@@ -173,8 +174,13 @@ Für das zweite Modell gibt es auch ältere Bilder:
 [big-video-9]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9.gif "animiertes, älteres Modell des Museums"
 [big-video-10]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10.gif "animiertes, älteres Modell des Museums"
 
-[big-video-9-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9-eg.gif "animiertes, älteres Modell des Museums"
-[big-video-10-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10-eg.gif "animiertes, älteres Modell des Museums"
+[big-video-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-eg.gif "animiertes Modell vom Erdgeschoss"
+[big-video-9-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9-eg.gif "animiertes, älteres Modell vom Erdgeschoss"
+[big-video-10-eg]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10-eg.gif "animiertes, älteres Modell vom Erdgeschoss"
+
+[big-video-og]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-og.gif "animiertes Modell vom Obergeschoss"
+[big-video-9-og]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-9-og.gif "animiertes, älteres Modell vom Obergeschoss"
+[big-video-10-og]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-10-og.gif "animiertes, älteres Modell vom Obergeschoss"
 
 [small-video]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/dist/museum-small.gif "kleines animiertes Modell des Museums"
 [small-video-1]: https://git.chaotikum.org/tursics/3d-druck-ohne-3d-druck/-/raw/main/doc/museum-small-1.gif "kleines animiertes älteres Modell des Museums"
