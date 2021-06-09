@@ -101,6 +101,8 @@ Ich bleibe gerne an Bauzäunen stehen und schaue mir den Fortschritt an. Damit d
 |-----------------|-----------------|-----------------|-----------|
 |![big-still-8-eg]|![big-still-8-og]|![big-still-8-dach]|noch ist nur die Außenhülle zu sehen  |
 |![big-still-9-eg]|![big-video-9-eg]|  |Parkett und Holzbalken werden im Erdgeschoss verlegt  |
+|![big-still-10-eg]|![big-video-10-eg]|  |Alle Fenster werden verhangen und die Treppe eingesetzt  |
+| |![big-still-10-og]|![big-video-10-og]| Das gleiche für das Obergeschoss  |
 
 ### Kurator:
 
