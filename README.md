@@ -1,6 +1,16 @@
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
 # The Brick Museum
 
 Nehme dein Museum mit nach Hause. So in echt. Baue es mit der ganzen Familie nach und stelle es ins Kinder- oder Wohnzimmer.
+
+Da die Originaldaten unter einer CC BY-SA 4.0-Lizenz stehen, ist dieses Projekt ebenfalls unter der [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa] lizensiert.
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 |Museum in groß | |
 |---------------|---------------------------|
@@ -88,6 +98,7 @@ An die Wände gehören Bilder. Für das Modell wird dies mit Stickern gelöst. V
 
 - PNG-Bilder können [auf dieser Webseite](https://brickhub.org/i/apps/sticker_builder.htm) konvertiert werden
 - SVG-Bilder könnnen [auf dieser Webseite](https://www.c-mt.dk/software/svg2ldraw/) konvertiert werden
+- größere Bilder müssen ggf. in mehrere kleinere Bilder zerlegt werden. Das [Online-Tool](https://pinetools.com/split-image) hilft dabei.
 
 Die Dateien müssen in einer speziellen Ordner-Struktur im Verzeichnis `/ldraw` abelegt werden. Der komplette Ordner muss nach `~/Application/Studio 2.0/ldraw` kopiert werden (oder ein Symlink erstellt werden).
 
