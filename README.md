@@ -12,6 +12,15 @@ Da die Originaldaten unter einer CC BY-SA 4.0-Lizenz stehen, ist dieses Projekt 
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
+## Aufbauanleitung
+
+In diesem Projekt gibt es zwei Modelle vom Museum. Im großen Modell kann man die Etagen einzeln abnehmen und in das Museum hineinschauen. Im kleinen Modell ist dies nicht möglich - verbraucht aber auch deutlich weniger Steine.
+
+|![big-still]   |Das große Museums-Modell <br><br> [museum.pdf](https://github.com/tursics/the-brick-museum/raw/main/dist/museum.pdf) <br><br> Der Aufbau dauert sehr lange.  |
+|---------------|---------------------------|
+|![small-still] |Das kleine Museums-Modell <br><br> [museum-small.pdf](https://github.com/tursics/the-brick-museum/raw/main/dist/museum-small.pdf) <br><br> Auch für Anfänger geeignet |
+
+
 |Museum in groß | |
 |---------------|---------------------------|
 |![big-still]   |![big-video]        |
@@ -101,14 +110,6 @@ An die Wände gehören Bilder. Für das Modell wird dies mit Stickern gelöst. V
 - größere Bilder müssen ggf. in mehrere kleinere Bilder zerlegt werden. Das [Online-Tool](https://pinetools.com/split-image) hilft dabei.
 
 Die Dateien müssen in einer speziellen Ordner-Struktur im Verzeichnis `/ldraw` abelegt werden. Der komplette Ordner muss nach `~/Application/Studio 2.0/ldraw` kopiert werden (oder ein Symlink erstellt werden).
-
-## Aufbauanleitung
-
-![big-still]
-[museum.pdf](https://github.com/tursics/the-brick-museum/raw/main/dist/museum.pdf) für das große Museums-Modell
-
-![small-still]
-[museum-small.pdf](https://github.com/tursics/the-brick-museum/raw/main/dist/museum-small.pdf) für das kleine Museums-Modell
 
 ## Entstehung
 
