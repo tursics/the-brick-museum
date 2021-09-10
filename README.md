@@ -227,3 +227,13 @@ Für das zweite Modell gibt es auch ältere Bilder:
 [small-video-8]: https://github.com/tursics/the-brick-museum/raw/main/doc/museum-small-8.gif "kleines animiertes älteres Modell des Museums"
 [small-video-9]: https://github.com/tursics/the-brick-museum/raw/main/doc/museum-small-9.gif "kleines animiertes älteres Modell des Museums"
 [small-video-10]: https://github.com/tursics/the-brick-museum/raw/main/doc/museum-small-10.gif "kleines animiertes älteres Modell des Museums"
+
+## Metadaten zum kleinen Modell
+
+- Breite: 11,2 cm
+- Länge: 8,8 cm
+- Höhe: 8,3 cm
+- Gewicht: 221,9 g
+- Teile: 439
+- Unterschiedliche Teile: 38
+- Gesamtpreis: 40,578 USD (35 Euro laut Währungsrechner)
