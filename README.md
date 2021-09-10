@@ -16,9 +16,10 @@ Da die Originaldaten unter einer CC BY-SA 4.0-Lizenz stehen, ist dieses Projekt 
 
 In diesem Projekt gibt es zwei Modelle vom Museum. Im großen Modell kann man die Etagen einzeln abnehmen und in das Museum hineinschauen. Im kleinen Modell ist dies nicht möglich - verbraucht aber auch deutlich weniger Steine.
 
-|[![big-still]](https://github.com/tursics/the-brick-museum/raw/main/dist/museum.pdf)   |Das große Museums-Modell. _Der Aufbau dauert sehr lange_  |
+|||
 |---------------|---------------------------|
-|[![small-cover]](https://github.com/tursics/the-brick-museum/raw/main/dist/museum-small.pdf) |Das kleine Museums-Modell  |
+|[![big-still]](https://github.com/tursics/the-brick-museum/raw/main/dist/museum.pdf)   |Das große Museums-Modell. _Der Aufbau dauert sehr lange_  (klicke auf das Bild für die komplette Anleitung) |
+|[![small-cover]](https://github.com/tursics/the-brick-museum/raw/main/dist/museum-small.pdf) |Anleitung für das kleine Museums-Modell (klicke auf das Bild für die komplette Anleitung) |
 
 
 |Museum in groß |                           |
@@ -229,7 +230,7 @@ Für das zweite Modell gibt es auch ältere Bilder:
 [small-video-9]: https://github.com/tursics/the-brick-museum/raw/main/doc/museum-small-9.gif "kleines animiertes älteres Modell des Museums"
 [small-video-10]: https://github.com/tursics/the-brick-museum/raw/main/doc/museum-small-10.gif "kleines animiertes älteres Modell des Museums"
 
-[small-cover]: https://github.com/tursics/the-brick-museum/raw/main/dist/museum-small-cover.png "kleines animiertes älteres Modell des Museums"
+[small-cover]: https://github.com/tursics/the-brick-museum/raw/main/dist/museum-small-cover.png "Cover für die Anleitung des kleinen Museums"
 
 ## Metadaten zum kleinen Modell
 
