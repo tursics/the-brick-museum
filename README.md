@@ -16,14 +16,14 @@ Da die Originaldaten unter einer CC BY-SA 4.0-Lizenz stehen, ist dieses Projekt 
 
 In diesem Projekt gibt es zwei Modelle vom Museum. Im großen Modell kann man die Etagen einzeln abnehmen und in das Museum hineinschauen. Im kleinen Modell ist dies nicht möglich - verbraucht aber auch deutlich weniger Steine.
 
-|![big-still]   |Das große Museums-Modell <br><br> [museum.pdf](https://github.com/tursics/the-brick-museum/raw/main/dist/museum.pdf) <br><br> Der Aufbau dauert sehr lange.  |
+|[![big-still]](https://github.com/tursics/the-brick-museum/raw/main/dist/museum.pdf)   |Das große Museums-Modell. _Der Aufbau dauert sehr lange_  |
 |---------------|---------------------------|
-|![small-still] |Das kleine Museums-Modell <br><br> [museum-small.pdf](https://github.com/tursics/the-brick-museum/raw/main/dist/museum-small.pdf) <br><br> Auch für Anfänger geeignet |
+|[![small-cover]](https://github.com/tursics/the-brick-museum/raw/main/dist/museum-small.pdf) |Das kleine Museums-Modell  |
 
 
-|Museum in groß | |
+|Museum in groß |                           |
 |---------------|---------------------------|
-|![big-still]   |![big-video]        |
+|![big-still]   |![big-video]               |
 |mit einem Blick nach innen   |  |
 | |![big-still-detail]        |
 |Erdgeschoss    |                           |
@@ -33,9 +33,9 @@ In diesem Projekt gibt es zwei Modelle vom Museum. Im großen Modell kann man di
 |Dach    |                           |
 |![big-still-dach]   |        |
 
-|Museum in klein   | |
-|---------------|---------------|
-|![small-video] | in Arbeit, ob es fertig wird bis zur Präsentation ist noch offen |
+|Museum in klein|                           |
+|---------------|---------------------------|
+|![small-still] |![small-video]             |
 
 (klicke auf ein Bild um es zu vergrößern)
 
@@ -150,7 +150,8 @@ Für das zweite Modell gibt es auch ältere Bilder:
 |----------------|----------------|-----------|
 |![small-still-1]|![small-video-1]|erste Version  |
 |![small-still-2]|![small-video-2]|auch hier ist die Stirnseite modelliert worden  |
-|                |![small-still]  |aktuelle Version  |
+|![small-still-3]|![small-video-3]|ein erstes vollständiges Haus, mit schrägem Dach |
+ |                |![small-still]  |aktuelle Version  |
 
 [big-still]: https://github.com/tursics/the-brick-museum/raw/main/dist/museum.png "Modell des Museums"
 [big-still-1]: https://github.com/tursics/the-brick-museum/raw/main/doc/museum-1.png "älteres Modell des Museums"
@@ -227,6 +228,8 @@ Für das zweite Modell gibt es auch ältere Bilder:
 [small-video-8]: https://github.com/tursics/the-brick-museum/raw/main/doc/museum-small-8.gif "kleines animiertes älteres Modell des Museums"
 [small-video-9]: https://github.com/tursics/the-brick-museum/raw/main/doc/museum-small-9.gif "kleines animiertes älteres Modell des Museums"
 [small-video-10]: https://github.com/tursics/the-brick-museum/raw/main/doc/museum-small-10.gif "kleines animiertes älteres Modell des Museums"
+
+[small-cover]: https://github.com/tursics/the-brick-museum/raw/main/dist/museum-small-cover.png "kleines animiertes älteres Modell des Museums"
 
 ## Metadaten zum kleinen Modell
 
