@@ -152,7 +152,7 @@ Für das zweite Modell gibt es auch ältere Bilder:
 |![small-still-1]|![small-video-1]|erste Version  |
 |![small-still-2]|![small-video-2]|auch hier ist die Stirnseite modelliert worden  |
 |![small-still-3]|![small-video-3]|ein erstes vollständiges Haus, mit schrägem Dach |
- |                |![small-still]  |aktuelle Version  |
+|![small-still]  |![small-video]  |aktuelle Version  |
 
 [big-still]: https://github.com/tursics/the-brick-museum/raw/main/dist/museum.png "Modell des Museums"
 [big-still-1]: https://github.com/tursics/the-brick-museum/raw/main/doc/museum-1.png "älteres Modell des Museums"
