@@ -18,7 +18,7 @@ In diesem Projekt gibt es zwei Modelle vom Museum. Im großen Modell kann man di
 
 |||
 |---------------|---------------------------|
-|[![big-still]](https://github.com/tursics/the-brick-museum/raw/main/dist/museum.pdf)   |Das große Museums-Modell. _Der Aufbau dauert sehr lange_  (klicke auf das Bild für die komplette Anleitung) |
+|[![big-cover]](https://github.com/tursics/the-brick-museum/raw/main/dist/museum.pdf)   |Das große Museums-Modell. _Der Aufbau dauert sehr lange_  (klicke auf das Bild für die komplette Anleitung) |
 |[![small-cover]](https://github.com/tursics/the-brick-museum/raw/main/dist/museum-small.pdf) |Anleitung für das kleine Museums-Modell (klicke auf das Bild für die komplette Anleitung) |
 
 
@@ -230,7 +230,20 @@ Für das zweite Modell gibt es auch ältere Bilder:
 [small-video-9]: https://github.com/tursics/the-brick-museum/raw/main/doc/museum-small-9.gif "kleines animiertes älteres Modell des Museums"
 [small-video-10]: https://github.com/tursics/the-brick-museum/raw/main/doc/museum-small-10.gif "kleines animiertes älteres Modell des Museums"
 
+[big-cover]: https://github.com/tursics/the-brick-museum/raw/main/dist/museum-cover.png "Cover für die Anleitung des großen Museums"
 [small-cover]: https://github.com/tursics/the-brick-museum/raw/main/dist/museum-small-cover.png "Cover für die Anleitung des kleinen Museums"
+
+## Metadaten zum großen Modell
+
+Das Modell ist noch nicht optimiert auf die Steinart und den Preis.
+
+- Breite: 55,6 cm
+- Länge: 26,4 cm
+- Höhe: 27,2 cm
+- Gewicht: 3603,9 g
+- Teile: 3684
+- Unterschiedliche Teile: 164
+- Gesamtpreis: 1308,60 USD (1100 Euro laut Währungsrechner)
 
 ## Metadaten zum kleinen Modell
 
